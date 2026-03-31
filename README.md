@@ -1,4 +1,11 @@
-## Hi there 👋
+# Aashutosh Sharma ⚡
+
+Computer Science student focused on 🐍 Python and 🤖 Machine Learning.  
+Building projects, solving problems, and turning ideas into real-world solutions.
+
+## 🌐 Connect with Me  
+🔗 LinkedIn: https://linkedin.com/in/aashutosh-sharma2                                    
+📧 Email: aashutosh2sharma@gmail.com 
 
 <!--
 **aashutosh2sharma/aashutosh2sharma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
