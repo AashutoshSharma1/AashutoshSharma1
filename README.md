@@ -1,4 +1,4 @@
-# Aashutosh Sharma ⚡
+# Aashutosh Sharma 
 
 Computer Science student focused on 🐍 Python and 🤖 Machine Learning.  
 Building projects, solving problems, and turning ideas into real-world solutions.
