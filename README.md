@@ -11,7 +11,7 @@
 
 ---
 
-## ✦ about me
+## ✦ About me
 
 ```
 🐍  Role       →  Computer Science Student · Python Developer
@@ -56,13 +56,13 @@
 ![GitHub](https://img.shields.io/badge/GitHub-8b5cf6?style=for-the-badge&logo=github&logoColor=white)
 ![VS%20Code](https://img.shields.io/badge/VS%20Code-8b5cf6?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![DSA](https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-8b5cf6?style=for-the-badge&logo=thealgorithms&logoColor=white)
-![OOPS](https://img.shields.io/badge/OOP-8b5cf6?style=for-the-badge&logo=cplusplus&logoColor=white)
+![OOPS](https://img.shields.io/badge/OOPS-8b5cf6?style=for-the-badge&logo=cplusplus&logoColor=white)
 
-## ✦ Contribution Snake
+<!-- ## ✦ Contribution Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/AashutoshSharma1/AashutoshSharma1/output/github-snake.svg" alt="Snake animation" />
-</p>
+</p> -->
 
 
 <!--
