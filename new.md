@@ -1,0 +1,2 @@
+
+![header](https://capsule-render.vercel.app/api?type=waving&height=280&color=0:020617,50:2563eb,100:7c3aed&text=AASHUTOSH%20SHARMA&fontColor=ffffff&fontSize=60&animation=fadeIn&fontAlignY=38&desc=Machine%20Learning%20|%20Data%20Science%20|%20Web%20Development&descAlignY=58&descSize=20)

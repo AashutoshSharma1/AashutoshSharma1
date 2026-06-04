@@ -1,11 +1,11 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:7c3aed&height=220&section=header&text=AASHUTOSH_SHARMA.exe&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=[CS_STUDENT%20|%20PYTHON_DEV%20|%20ML_ENGINEER]&descAlignY=56&descSize=18)
+![header](https://capsule-render.vercel.app/api?type=waving&height=280&color=0:020617,50:2563eb,100:7c3aed&text=AASHUTOSH%20SHARMA&fontColor=ffffff&fontSize=60&animation=fadeIn&fontAlignY=38&desc=Machine%20Learning%20|%20Data%20Science%20|%20Web%20Development&descAlignY=58&descSize=20)
 
 [![Profile Views](https://komarev.com/ghpvc/?username=aashutosh2sharma&color=7c3aed&style=flat-square&label=PROFILE+VIEWS)](https://github.com/aashutosh2sharma)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/aashutosh-sharma2)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/aashutoshsharma1)
 [![Email](https://img.shields.io/badge/EMAIL-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:aashutosh2sharma@gmail.com)
-[![GitHub](https://img.shields.io/badge/GITHUB-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/aashutosh2sharma)
+[![GitHub](https://img.shields.io/badge/GITHUB-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/AashutoshSharma1)
 
 </div>
 
@@ -15,11 +15,11 @@
 
 ```
 🐍  Role       →  Computer Science Student · Python Developer
-🤖  Focus      →  Machine Learning · AI · Deep Learning
+🤖  Focus      →  Machine Learning · AI · Web Development
 🔨  Building   →  Real-world projects & problem-solving tools
 📚  Learning   →  ML Algorithms · Neural Networks · Data Science
 🌱  Status     →  Open to Internships, Collaborations, Open Source
-📍  Location   →  India
+📍  Location   →  Gurugram, India
 ```
 
 ---
