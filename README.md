@@ -35,7 +35,7 @@
 ![CSS3](https://img.shields.io/badge/CSS3-7c3aed?style=for-the-badge&logo=css3&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-7c3aed?style=for-the-badge&logo=mysql&logoColor=white)
 
-### Data Science & Machine Learning
+### ML, Data Science and much more
 
 ![NumPy](https://img.shields.io/badge/NumPy-a855f7?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-a855f7?style=for-the-badge&logo=pandas&logoColor=white)
@@ -44,19 +44,16 @@
 ![Scikit--Learn](https://img.shields.io/badge/Scikit--Learn-a855f7?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![Machine%20Learning](https://img.shields.io/badge/Machine%20Learning-a855f7?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-a855f7?style=for-the-badge&logo=jupyter&logoColor=white)
-
-### Web Development
-
 ![React](https://img.shields.io/badge/React.js-9333ea?style=for-the-badge&logo=react&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-9333ea?style=for-the-badge&logo=fastapi&logoColor=white)
+![OOPS](https://img.shields.io/badge/OOPS-8b5cf6?style=for-the-badge&logo=cplusplus&logoColor=white)
+![DSA](https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-8b5cf6?style=for-the-badge&logo=thealgorithms&logoColor=white)
 
 ### Tools & Concepts
 
 ![Git](https://img.shields.io/badge/Git-8b5cf6?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-8b5cf6?style=for-the-badge&logo=github&logoColor=white)
 ![VS%20Code](https://img.shields.io/badge/VS%20Code-8b5cf6?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![DSA](https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-8b5cf6?style=for-the-badge&logo=thealgorithms&logoColor=white)
-![OOPS](https://img.shields.io/badge/OOPS-8b5cf6?style=for-the-badge&logo=cplusplus&logoColor=white)
 
 <!-- ## ✦ Contribution Snake
 
