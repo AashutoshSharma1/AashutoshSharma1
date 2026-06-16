@@ -15,7 +15,7 @@
 
 ```
 🐍  Role       →  Computer Science Student · Python Developer
-🤖  Focus      →  Machine Learning · AI · Web Development
+🤖  Focus      →  Machine Learning · Data Science · Web Dev
 🔨  Building   →  Real-world projects & problem-solving tools
 📚  Learning   →  ML Algorithms · Neural Networks · Data Science
 🌱  Status     →  Open to Internships, Collaborations, Open Source
@@ -55,24 +55,6 @@
 ![GitHub](https://img.shields.io/badge/GitHub-8b5cf6?style=for-the-badge&logo=github&logoColor=white)
 ![VS%20Code](https://img.shields.io/badge/VS%20Code-8b5cf6?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
-<!-- ## ✦ Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/AashutoshSharma1/AashutoshSharma1/output/github-snake.svg" alt="Snake animation" />
-</p> -->
 
 
-<!--
-**aashutosh2sharma/aashutosh2sharma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
